@@ -8,6 +8,7 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 | ----------------------------------- |
 | [ahmad-fauzan458](#ahmad-fauzan458) |
 | [azharaiz](#azharaiz)               |
+| [bungamaku](#bungamaku)             |
 | [gagahpangeran](#gagahpangeran)     |
 | [giovanism](#giovanism)             |
 | [laymonage](#laymonage)             |
@@ -23,6 +24,23 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 
 - [Website Tarung][tarung2017]\
   Website tugas PMB 2017 untuk angkatan Tarung 2017.
+
+### [bungamaku][bungamaku]
+
+- [Blog Ama][blog-ama]\
+  Blog pribadi Bunga Amalia menggunakan _framework_ Hugo.
+
+- [Foundation Programming 1][foundation-programming-1]\
+  Kumpulan solusi Lab dan Tugas Pemrograman mata kuliah Dasar-Dasar Pemrograman 1 (DDP 1) semester ganjil tahun ajaran 2017/2018 milik Bunga Amalia menggunakan bahasa Python.
+
+- [Foundation Programming 2][foundation-programming-2]\
+  Kumpulan solusi Lab dan Tugas Pemrograman mata kuliah Dasar-Dasar Pemrograman 2 (DDP 2) semester genap tahun ajaran 2017/2018 milik Bunga Amalia menggunakan bahasa Python.
+
+- [kurobot][kurobot]\
+  Bot LINE yang dapat mentranslasi satu per satu kata dari berbagai bahasa (_auto detect_) ke Bahasa Inggris menggunakan Google Translate API dan _framework_ Django.
+
+- [StatusKita][status-kita]\
+  Situs pribadi Bunga Amalia yang dapat menerima status anonimus dan menampilkannya kembali menggunakan _framework_ Django.
 
 ### [gagahpangeran][gagahpangeran]
 
@@ -42,7 +60,7 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 
 ### [giovanism][giovanism]
 
-- [GMD][GMD]\
+- [GMD][gmd]\
   GMD is a dictionary app to query and manages multiple StarDict’s dictionary
   files. Very straightforward and simple. Built as UWA (Universal Windows App)
   and adaptive across PCs, tablets, and phones.
@@ -56,7 +74,7 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 - [kbbi-python][kbbi-python]\
   Modul Python untuk mengambil entri sebuah kata/frase dalam KBBI Daring.
 - [sage sans][sagesans]\
-  Fon *sans-serif* berdasarkan tulisan tangan saya.
+  Fon _sans-serif_ berdasarkan tulisan tangan saya.
 - [TarungBot][tarungbot]\
   Bot LINE untuk gim tebak Tarung (Fasilkom UI 2017).
 - [TarungLab DDP1][tarunglab-ddp1]\
@@ -66,21 +84,23 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
   Modul Python untuk mengambil definisi teratas suatu istilah dalam UrbanDictionary.
 
 [ahmad-fauzan458]: https://github.com/ahmad-fauzan458
-[labddp0]: https://github.com/ahmad-fauzan458/LabDDP0 
-
+[labddp0]: https://github.com/ahmad-fauzan458/LabDDP0
 [azharaiz]: https://github.com/azharaiz
 [tarung2017]: https://github.com/azharaiz/tarung2017.com
-
+[bungamaku]: https://github.com/bungamaku
+[blog-ama]: https://github.com/bungamaku/bungamaku.github.io
+[foundation-programming-1]: https://github.com/bungamaku/foundation-programming-1
+[foundation-programming-2]: https://github.com/bungamaku/foundation-programming-2
+[kurobot]: https://github.com/bungamaku/kurobot
+[status-kita]: https://github.com/bungamaku/statuskita
 [gagahpangeran]: https://github.com/gagahpangeran
 [blog.gagahpangeran.com]: https://github.com/gagahpangeran/blog.gagahpangeran.com
 [checkers-sc]: https://github.com/gagahpangeran/checkers-sc
 [gagahpangeran.com]: https://github.com/gagahpangeran/gagahpangeran.com
 [uno-bot]: https://github.com/gagahpangeran/uno-bot
-
 [giovanism]: https://github.com/giovanism
-[GMD]: https://github.com/giovanism/GMD
+[gmd]: https://github.com/giovanism/GMD
 [tsudo]: https://github.com/giovanism/tsudo
-
 [laymonage]: https://github.com/laymonage
 [aidenbot]: https://github.com/laymonage/AidenBot
 [kbbi-python]: https://github.com/laymonage/kbbi-python
@@ -88,4 +108,3 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 [tarungbot]: https://github.com/laymonage/TarungBot
 [tarunglab-ddp1]: https://github.com/laymonage/TarungLabDDP1
 [udtop-python]: https://github.com/laymonage/urbandictionary_top-python
-
