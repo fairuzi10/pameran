@@ -86,7 +86,7 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 [ahmad-fauzan458]: https://github.com/ahmad-fauzan458
 [labddp0]: https://github.com/ahmad-fauzan458/LabDDP0
 [azharaiz]: https://github.com/azharaiz
-[tarung2017]: https://github.com/azharaiz/tarung2017.com
+[tarung2017]: https://github.com/indravb6/tarung2017
 [bungamaku]: https://github.com/bungamaku
 [blog-ama]: https://github.com/bungamaku/bungamaku.github.io
 [foundation-programming-1]: https://github.com/bungamaku/foundation-programming-1
