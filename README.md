@@ -9,6 +9,7 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 | [ahmad-fauzan458](#ahmad-fauzan458) |
 | [azharaiz](#azharaiz)               |
 | [bungamaku](#bungamaku)             |
+| [fairuzi10](#fairuzi10)             |
 | [gagahpangeran](#gagahpangeran)     |
 | [giovanism](#giovanism)             |
 | [laymonage](#laymonage)             |
@@ -41,6 +42,11 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 
 - [StatusKita][status-kita]\
   Situs pribadi Bunga Amalia yang dapat menerima status anonimus dan menampilkannya kembali menggunakan _framework_ Django.
+
+### [fairuzi10][fairuzi10]
+
+- [Jadwal SIAK War][jadwal-siak-war]\
+  Versi statis dari SusunJadwal yang dibuat menggunakan VueJS.
 
 ### [gagahpangeran][gagahpangeran]
 
@@ -93,6 +99,8 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 [foundation-programming-2]: https://github.com/bungamaku/foundation-programming-2
 [kurobot]: https://github.com/bungamaku/kurobot
 [status-kita]: https://github.com/bungamaku/statuskita
+[fairuzi10]: https://github.com/fairuzi10
+[jadwal-siak-war]: https://github.com/fairuzi10/Jadwal-SIAK-War
 [gagahpangeran]: https://github.com/gagahpangeran
 [blog.gagahpangeran.com]: https://github.com/gagahpangeran/blog.gagahpangeran.com
 [checkers-sc]: https://github.com/gagahpangeran/checkers-sc
